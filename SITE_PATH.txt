@@ -1,0 +1,4 @@
+Dripzone Pro Template v2
+Folder: C:\Users\Administrator\Documents\Saas service website\build\Release\websites\assane_barber_shop_assane_b.__building
+Company: Assane Barber Shop
+Template: moroccan-couscous-ouarzazate-neon
